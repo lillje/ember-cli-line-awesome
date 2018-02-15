@@ -47,6 +47,6 @@ module.exports = {
     	]
     });
 
-    return new MergeTrees([vendorTree, lineAwesomeTree, fontsTree]);
+    return new MergeTrees([vendorTree, lineAwesomeTree, fontsTree].filter(Boolean));
   }
 };
