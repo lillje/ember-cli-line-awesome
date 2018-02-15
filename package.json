@@ -22,7 +22,8 @@
     "dependencies": {
         "broccoli-funnel": "^2.0.1",
         "broccoli-merge-trees": "^2.0.0",
-        "ember-cli-babel": "^6.6.0"
+        "ember-cli-babel": "^6.6.0",
+	"line-awesome": "github:icons8/line-awesome"
     },
     "devDependencies": {
         "broccoli-asset-rev": "^2.4.5",
